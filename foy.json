@@ -3,7 +3,7 @@
 "templates": [
 {
 "name": "NAME_YOUR_ART",
-"sources": ["foy.png],
+"sources": ["https://github.com/rasput4in/foy/blob/main/foy.png],
 "x": 67,
 "y": 32
 }
