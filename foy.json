@@ -2,10 +2,10 @@
 "contact": "j'sais pas",
 "templates": [
 {
-"name": "le_foy",
+"name": "oeil_fog",
 "sources": ["https://raw.githubusercontent.com/rasput4in/foy/refs/heads/main/foy.png"],
-"x": 67,
-"y": 32
+"x": 57,
+"y": 87
 }
 ]
 }
