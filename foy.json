@@ -3,7 +3,7 @@
 "templates": [
 {
 "name": "rns",
-"sources": ["https://raw.githubusercontent.com/rasput4in/foy/refs/heads/main/rockn.png"],
+"sources": ["https://raw.githubusercontent.com/rasput4in/foy/refs/heads/main/rns.png"],
 "x": 1,
 "y": 144
 }
